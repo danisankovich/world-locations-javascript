@@ -1,0 +1,23 @@
+{
+  "name": "world_locations",
+  "version": "1.0.0",
+  "description": "import the following libraries into your app.",
+  "main": "cities.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "bab": "babel src -d lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikesankovich/world-locations-javascript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mikesankovich/world-locations-javascript/issues"
+  },
+  "homepage": "https://github.com/mikesankovich/world-locations-javascript#readme",
+  "devDependencies": {
+    "babel-preset-es2015": "^6.16.0"
+  }
+}
